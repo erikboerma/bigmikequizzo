@@ -10,6 +10,7 @@
 
 .navbar {
     /* justify-content: right; */
+    font-size: 20px;
 }
 
 ul {
@@ -19,6 +20,8 @@ ul {
 li {
     list-style-type: none;
     float: right;
-    padding: 0 3px 0 3px;
+    padding: 0 15px 0 15px;
+    border: 2px solid white;
+    border-radius: 5px;
 }
 
