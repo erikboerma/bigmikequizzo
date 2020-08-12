@@ -12,7 +12,13 @@
     /* justify-content: right; */
 }
 
-li {
-    list-style-type: none;
+ul {
     display: inline;
 }
+
+li {
+    list-style-type: none;
+    float: right;
+    padding: 0 3px 0 3px;
+}
+
