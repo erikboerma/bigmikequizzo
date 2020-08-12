@@ -7,3 +7,12 @@
     height: 25%;
     width: 25%;
 }
+
+.navbar {
+    /* justify-content: right; */
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+}
