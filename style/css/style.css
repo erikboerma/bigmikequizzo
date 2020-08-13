@@ -4,20 +4,19 @@
 }
 
 .logo {
-    /* height: 25%; */
     width: 25%;
 }
 
-.navbar {
+.navBarSection {
     /* justify-content: right; */
     font-size: 20px;
 }
 
-ul {
-    display: inline;
+.navBarList {
+    display: inline-flex;  /* learn differences to fix links */
 }
 
-li {
+.navBarLinks {
     list-style-type: none;
     float: right;
     padding: 0 15px 0 15px;
