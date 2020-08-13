@@ -5,10 +5,10 @@
 
 .logo {
     width: 25%;
+    float: left;
 }
 
 .navBarSection {
-    /* justify-content: right; */
     font-size: 20px;
 }
 
@@ -20,7 +20,6 @@
     list-style-type: none;
     float: right;
     padding: 0 15px 0 15px;
-    border: 2px solid white;
-    border-radius: 5px;
+    
 }
 
