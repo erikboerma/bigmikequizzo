@@ -1,12 +1,21 @@
-.header {
+
+/* navbar section  */
+
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+#navigationBar {
     background-color: black;
-    color: white;
 }
 
 .logo {
-    width: 25%;
+    width: 50%;
     float: left;
 }
+
+
 
 .navBarSection {
     font-size: 20px;
@@ -21,6 +30,14 @@
     float: right;
     padding: 0 15px 0 15px;
     
+}
+
+/* venue section  */
+
+#venues {
+    padding: 7% 15%;
+    background-color: black;
+    text-align: center;
 }
 
 .venueLogo {
