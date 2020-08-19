@@ -36,7 +36,10 @@
 /* QOW and money question section  */
 #qowMoneySection {
     padding: 7% 15%;
+    background-color: lightgray;
 }
+
+
 
 
 /* venue section  */
@@ -48,7 +51,7 @@
 }
 
 .venueImage{
-    width: 75%;
+    width: 50%;
     margin: 20px;
 }
 
@@ -57,11 +60,4 @@
     width: 25%;
 }
 
-.rowVenue {
-    height: 400px;
-    background-color: black;
-}
 
-.qowRow {
-    background-color: lightgray;
-}
