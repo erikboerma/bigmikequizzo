@@ -3,7 +3,7 @@
 
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 0 15%;
 }
 
 #navigationBar {
@@ -13,6 +13,7 @@
 .logo {
     width: 50%;
     float: left;
+    border: 2px solid white;
 }
 
 
@@ -32,12 +33,23 @@
     
 }
 
+/* QOW and money question section  */
+#qowMoneySection {
+    padding: 7% 15%;
+}
+
+
 /* venue section  */
 
 #venues {
     padding: 7% 15%;
     background-color: black;
     text-align: center;
+}
+
+.venueImage{
+    width: 75%;
+    margin: 20px;
 }
 
 .venueLogo {
