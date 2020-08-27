@@ -8,12 +8,13 @@
 
 #navigationBar {
     background-color: black;
+    border: 1px solid white;
+    top: 0;
 }
 
 .logo {
     width: 50%;
     float: left;
-    border: 2px solid white;
 }
 
 
@@ -47,6 +48,11 @@
     padding: 7% 15%;
     background-color: black;
     text-align: center;
+    color: white;
+}
+
+.carouselSize {
+    height: 500px;
 }
 
 .venueImage{
@@ -62,6 +68,7 @@
 
 /* QOW and money question section  */
 #qowMoneySection {
+    height: 600px;
     padding: 7% 15%;
     background-color: rgba(29.8%, 73.3%, 9%, 0.3);
 }
