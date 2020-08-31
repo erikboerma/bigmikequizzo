@@ -9,12 +9,16 @@
 
 
 #navigationBar {
+    background-color: black; 
     position: fixed;
     top: 0;
     left: 0;
     z-index: 9999;
     width: 100%;
     height: 50px;
+}
+
+#navBarBackground {
     background-color: black;
 }
 
@@ -22,7 +26,6 @@
     width: 50%;
     float: left;
 }
-
 
 
 .navBarSection {
@@ -55,6 +58,10 @@
     background-color: black;
     text-align: center;
     color: white;
+}
+
+.rowVenue {
+    padding-top: 20px;
 }
 
 .carouselSize {
