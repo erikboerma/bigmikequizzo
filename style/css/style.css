@@ -11,7 +11,7 @@
     left: 0;
     z-index: 9999;
     width: 100%;
-    height: 50px;
+    height: 105px;
 }
 
 #navBarBackground {
@@ -19,7 +19,7 @@
 }
 
 .logo {
-    width: 50%;
+    width: 30%;
     float: left;
 }
 
@@ -38,14 +38,6 @@
     padding: 0 15px 0 15px;
     
 }
-/* icon section  */
-/* #icons{
-    padding: 7% 15%;
-    background-color: black;
-} */
-
-
-
 
 /* venue section  */
 
@@ -57,11 +49,11 @@
 }
 
 .rowVenue {
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 .carouselSize {
-    height: 500px;
+    height: 600px;
 }
 
 .venueImage{
