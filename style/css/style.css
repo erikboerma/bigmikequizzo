@@ -29,8 +29,7 @@
 }
 
 .navBarList {
-    display: inline-flex;  /* learn differences to fix links */
-}
+    display: inline-flex;  
 
 .navBarLinks {
     list-style-type: none;
@@ -78,9 +77,7 @@
 #newsletter {
     padding: 7% 15%;
     background-color: black;
-    color: white;
-    /* background-color: rgba(255, 121, 0, 0.3); */
-    
+    color: white;    
 }
 
 .footer {
