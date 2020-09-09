@@ -30,8 +30,7 @@
 .navBarLinks {
     list-style-type: none;
     float: right;
-    padding: 0 15px 0 15px;
-    
+    padding: 0 15px 0 15px;   
 }
 
 /* venue section  */
@@ -58,6 +57,10 @@
 .venueLogo {
     height: 200px;
     width: 25%;
+}
+
+#fontAwesomeIcon {
+    color: rgba(29.8%, 73.3%, 9%, 1);
 }
 
 /* QOW and money question section  */
